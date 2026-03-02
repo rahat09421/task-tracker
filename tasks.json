@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Learn Python",
+        "status": "done",
+        "createdAt": "2026-03-02 14:59:46",
+        "updatedAt": "2026-03-02 15:02:50"
+    },
+    {
+        "id": 3,
+        "description": "Learn Django",
+        "status": "in-progress",
+        "createdAt": "2026-03-02 15:02:11",
+        "updatedAt": "2026-03-02 15:05:29"
+    }
+]
